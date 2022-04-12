@@ -1,0 +1,2 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+7,Queen,CA,25.00,Tile,554,3.50,4.15,1939.00,2299.10,1059.53,5297.63
